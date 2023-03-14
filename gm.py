@@ -7,6 +7,7 @@ path_image = '/data/data/com.myapp.myapp/files/app/'
 clock = pygame.time.Clock()
 
 
+
 gs_list = [] # cписок монстров
 bullet_list = [] # cписок пуль
 
