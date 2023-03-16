@@ -3,7 +3,7 @@ import random
 import sys
 
 path_image = '/data/data/com.myapp.myapp/files/app/'
-#path_image = 'E:\\копия инфы\\Фильмы\\Мультфильмы\\НУ ПОГОДИ\\Moe\\Программирование\\PY\\Game\\'
+##path_image = 'E:\\копия инфы\\Фильмы\\Мультфильмы\\НУ ПОГОДИ\\Moe\\Программирование\\PY\\Game\\'
 clock = pygame.time.Clock()
 
 
